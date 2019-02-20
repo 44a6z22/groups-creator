@@ -1,19 +1,4 @@
-/*****************************
-    00:30 ==>
- 3 dial l groupat fihum 6 dnass w 2 dihuma 5
- awel 3chra dial nass ghadi it3ezlu ghadi t9essmu 3La juj groupat lwlin
- w dalchi li b9a ghadi it9essem 3la l grp 3,4,5
- ok. kighadi dir liha bl code ?
- -------------------------------------
- f douk l 10 dial jebdat lwlin khoud kola mera wahed aliatoiremnt w 3tih ra9m dial lgroup lwl wla tani
- (dok 10 lwlin kola wahed fihum ghadi ikon yaima fl group lwl ola tani )
- w li thez supprimeh men tableau ...
- li b9Aw mora dok l 10 ghadi itkhatfu 3La lblais fl groupat 3,4,5 7ta mayb9A tawahed  tableau dial smiat
-    02:30 ==> OLA
-kola Group affecté lih l3Adad li khass ikon fih dial bnadem
-l groupat 1  w 2 W 3 ghadi ikono groupat dial 6 nass ;
-4 W 5  ghadi ikono groupat dial 5 dnass
-*****************************/
+
 
 // create an object
  var aprennant = function(firstName, lastName){
